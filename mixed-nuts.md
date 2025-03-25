@@ -10,3 +10,4 @@
 
 - Roast and grind
 - boil
+- Sugar
